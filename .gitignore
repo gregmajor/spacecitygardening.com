@@ -1,0 +1,65 @@
+# -------------------------------------
+# Admin Stuff
+# -------------------------------------
+admin/
+
+# -------------------------------------
+# GO
+# -------------------------------------
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+vendor/
+
+# Go workspace file
+go.work
+
+# -------------------------------------
+# SASS
+# -------------------------------------
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# -------------------------------------
+# IDEA-based Workspaces
+# -------------------------------------
+.idea/
+.idea/workspace.xml
+**/.idea/workspace.xml
+
+# -------------------------------------
+# VS Code Files
+# -------------------------------------
+.vscode
+
+# -------------------------------------
+# MacOS Hidden Files
+# -------------------------------------
+.DS_Store
+
+##other
+#node_modules/
+#bower_components/
+.tmp
+#.sass-cache
+#builds/**/images/*
+#*.ogg
+#*.mp3
+#*.mp4
+#*.png
+#*.jpeg
+*.psd
+Footer
