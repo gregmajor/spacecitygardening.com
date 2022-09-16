@@ -1,1 +1,1 @@
-web: bee run
+web: main
