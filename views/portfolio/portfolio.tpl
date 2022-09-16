@@ -1,296 +1,3 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
-
-<head>
-   <meta charset="utf-8">
-   <meta http-equiv="x-ua-compatible" content="ie=edge">
-   <title>Gardomia - Landscape and Gardening HTML Template</title>
-   <meta name="description" content="">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
-   <!-- CSS here -->
-   <link rel="stylesheet" href="assets/css/preloader.css">
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/meanmenu.css">
-   <link rel="stylesheet" href="assets/css/animate.min.css">
-   <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
-   <link rel="stylesheet" href="assets/css/backToTop.css">
-   <link rel="stylesheet" href="assets/css/magnific-popup.css">
-   <link rel="stylesheet" href="assets/css/ui-range-slider.css">
-   <link rel="stylesheet" href="assets/css/nice-select.css">
-   <link rel="stylesheet" href="assets/css/fontAwesome5Pro.css">
-   <link rel="stylesheet" href="assets/css/flaticon.css">
-   <link rel="stylesheet" href="assets/css/default.css">
-   <link rel="stylesheet" href="assets/css/style.css">
-</head>
-
-<body>
-   <!--[if lte IE 9]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-
-   <!-- header area start  -->
-   <header class="header1">
-      <div class="header-top-area d-none d-lg-block">
-         <div class="container container-big">
-            <div class="header-top-inner">
-               <div class="header-top-left">
-                  <div class="meta-items">
-                     <div class="meta-item">
-                        <div class="meta-item-icon">
-                           <i class="fas fa-phone"></i>
-                        </div>
-                        <div class="meta-item-text">
-                           <p><a href="tel:78989700098">789 897 000 98</a></p>
-                        </div>
-                     </div>
-                     <div class="meta-item">
-                        <div class="meta-item-icon">
-                           <i class="fas fa-envelope-open"></i>
-                        </div>
-                        <div class="meta-item-text">
-                           <p><a href="mailto:info@gardomia.com">info@gardomia.com</a></p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="header-top-right">
-                  <div class="meta-items">
-                     <div class="meta-item">
-                        <div class="meta-item-icon">
-                           <i class="fas fa-clock"></i>
-                        </div>
-                        <div class="meta-item-text">
-                           <p>Mon - Fri: 9:00 - 19:00<span class="d-none d-xl-inline-block">/ Closed on
-                                 <strong>Weekends</strong></span>
-                           </p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="header-top-social">
-                     <div class="social-links">
-                        <ul>
-                           <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                           <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                           <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                           <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div id="header-sticky" class="header-main header-main1">
-         <div class="container container-big">
-            <div class="row align-items-center">
-               <div class="col-xl-12 col-lg-12">
-                  <div class="header-main-content-wrapper">
-                     <div class="header-main-left header-main-left-header1">
-                        <div class="header-logo header1-logo">
-                           <a href="index.html" class="logo-bl"><img src="assets/img/logo/logo-w-bg.png"
-                                 alt="logo-img"></a>
-                        </div>
-                        <div class="main-menu main-menu1 d-none d-xl-block">
-                           <nav id="mobile-menu">
-                              <ul>
-                                 <li class="menu-item-has-children"><a href="index.html">Home</a>
-                                    <ul class="sub-menu">
-                                       <li><a href="index.html">Home Style 01</a></li>
-                                       <li><a href="index-2.html">Home Style 02</a></li>
-                                       <li><a href="index-3.html">Home Style 03</a></li>
-                                       <li><a href="index-4.html">Home Style 04</a></li>
-                                       <li><a href="index-5.html">Home Style 05</a></li>
-                                    </ul>
-                                 </li>
-                                 <li><a href="about.html">About</a>
-                                 </li>
-                                 <li class="menu-item-has-children"><a href="services.html">Services</a>
-                                    <ul class="sub-menu">
-                                       <li><a href="services.html">Services</a></li>
-                                       <li><a href="service-details.html">Service Details</a></li>
-                                    </ul>
-                                 </li>
-                                 <li class="menu-item-has-children"><a href="#">Pages</a>
-                                    <ul class="sub-menu">
-                                       <li class="menu-item-has-children"><a href="portfolio.html">Portfolio</a>
-                                          <ul class="sub-menu">
-                                             <li><a href="portfolio.html">Portfolio</a></li>
-                                             <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                                          </ul>
-                                       </li>
-                                       <li class="menu-item-has-children"><a href="team.html">Team</a>
-                                          <ul class="sub-menu">
-                                             <li><a href="team.html">Team</a></li>
-                                             <li><a href="team-details.html">Team Details</a></li>
-                                          </ul>
-                                       </li>
-                                       <li><a href="shop.html">Shop</a></li>
-                                       <li><a href="shop-details.html">Shop Details</a></li>
-                                       <li><a href="wishlist.html">Wishlist</a></li>
-                                       <li><a href="cart.html">Cart</a></li>
-                                       <li><a href="checkout.html">Checkout</a></li>
-                                       <li><a href="faq.html">FAQ</a></li>
-                                    </ul>
-                                 </li>
-                                 <li class="menu-item-has-children"><a href="blog.html">Blog</a>
-                                    <ul class="sub-menu">
-                                       <li><a href="blog.html">Blog</a></li>
-                                       <li><a href="blog-details.html">Blog Details</a></li>
-                                    </ul>
-                                 </li>
-                                 <li><a href="contact.html">Contact</a></li>
-                              </ul>
-                           </nav>
-                        </div>
-                     </div>
-                     <div class="header-main-right header-main-right-header1">
-                        <a href="javascript:void(0)"
-                           class="action-btn cart-btn d-none d-lg-inline-flex action-item-cart"><i
-                              class="fas fa-shopping-basket"></i></a>
-                        <a href="contact.html" class="border-btn-rounded d-none d-lg-inline-flex"><i
-                              class="fal fa-farm"></i><span>Get a
-                              Quote</span></a>
-                        <div class="menu-bar d-xl-none">
-                           <a class="side-toggle" href="javascript:void(0)">
-                              <div class="bar-icon">
-                                 <span></span>
-                                 <span></span>
-                                 <span></span>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-
-
-   </header>
-   <!-- header area end -->
-
-   <!-- Add your site or application content here -->
-   <main>
-
-
-      <!-- side toggle start -->
-      <div class="fix">
-         <div class="side-info">
-            <div class="side-info-content">
-               <div class="offset-widget offset-logo mb-40">
-                  <div class="row align-items-center">
-                     <div class="col-9">
-                        <a href="index.html">
-                           <img src="assets/img/logo/logo-bl.png" alt="Logo">
-                        </a>
-                     </div>
-                     <div class="col-3 text-end"><button class="side-info-close"><i class="fal fa-times"></i></button>
-                     </div>
-                  </div>
-               </div>
-               <div class="mobile-menu d-xl-none fix"></div>
-               <div class="offset-widget offset_searchbar mb-30">
-                  <form action="#" class="filter-search-input">
-                     <input type="text" placeholder="Search keyword">
-                     <button type="submit"><i class="fal fa-search"></i></button>
-                  </form>
-               </div>
-               <div class="offset-widget offset-support mb-30">
-                  <div class="footer-support">
-                     <div class="irc-item support-meta">
-                        <div class="irc-item-icon">
-                           <i class="fas fa-phone-alt"></i>
-                        </div>
-                        <div class="irc-item-content">
-                           <p>Emergency Call</p>
-                           <div class="support-number"><a href="tel:98965963168">989 659 631 68</a></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="offset-widget offset-social mb-30">
-                  <div class="footer-social">
-                     <span>Connect:</span>
-                     <div class="social-links">
-                        <ul>
-                           <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                           <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                           <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                           <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="offcanvas-overlay"></div>
-      <div class="offcanvas-overlay-white"></div>
-      <div class="fix">
-         <div class="sidebar-action sidebar-cart">
-            <button class="close-sidebar">Close<i class="fal fa-times"></i></button>
-            <h4 class="sidebar-action-title">Shopping Cart</h4>
-            <div class="sidebar-action-list">
-               <div class="sidebar-list-item">
-                  <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="assets/img/product/product-6.png" alt="img"></a>
-                  </div>
-                  <div class="product-desc">
-                     <div class="product-name"><a href="shop-details.html">Giardino Tools</a></div>
-                     <div class="product-pricing">
-                        <span class="item-number">1 ×</span>
-                        <span class="price-now">$24.00</span>
-                     </div>
-                     <button class="remove-item"><i class="fal fa-times"></i></button>
-                  </div>
-               </div>
-               <div class="sidebar-list-item">
-                  <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="assets/img/product/product-8.png" alt="img"></a>
-                  </div>
-                  <div class="product-desc">
-                     <div class="product-name"><a href="shop-details.html">Bloom Season</a></div>
-                     <div class="product-pricing">
-                        <span class="item-number">1 ×</span>
-                        <span class="price-now">$12.00</span>
-                     </div>
-                     <button class="remove-item"><i class="fal fa-times"></i></button>
-                  </div>
-               </div>
-               <div class="sidebar-list-item">
-                  <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="assets/img/product/product-10.png" alt="img"></a>
-                  </div>
-                  <div class="product-desc">
-                     <div class="product-name"><a href="shop-details.html">the best dirt</a></div>
-                     <div class="product-pricing">
-                        <span class="item-number">1 ×</span>
-                        <span class="price-now">$42.00</span>
-                     </div>
-                     <button class="remove-item"><i class="fal fa-times"></i></button>
-                  </div>
-               </div>
-
-            </div>
-            <div class="product-price-total">
-               <span>Subtotal :</span>
-               <span class="subtotal-price">$78.00</span>
-            </div>
-            <div class="sidebar-action-btn">
-               <a href="cart.html" class="fill-btn">View cart</a>
-               <a href="checkout.html" class="border-btn">Checkout</a>
-            </div>
-         </div>
-      </div>
-
-
-      <!-- side toggle end -->
-
-
       <!-- page title area start  -->
       <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
          <div class="container">
@@ -309,7 +16,7 @@
                <div class="breadcrumb-menu">
                   <nav aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs">
                      <ul class="trail-items">
-                        <li class="trail-item trail-begin"><a href="index.html"><span>home</span></a></li>
+                        <li class="trail-item trail-begin"><a href="index"><span>home</span></a></li>
                         <li class="trail-item trail-end"><span>portfolio</span></li>
                      </ul>
                   </nav>
@@ -347,15 +54,15 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">lawn and garden
+                                       <h4 class="portfolio-title"><a href="portfolio-details">lawn and garden
                                              maintenance</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -363,15 +70,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Tree-Trimming &
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Tree-Trimming &
                                              Removal</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -379,15 +86,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Trimming of
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Trimming of
                                              hedges</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -395,15 +102,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Junk Removal</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Junk Removal</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -411,15 +118,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Pruning plants for
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Pruning plants for
                                              healthy growth</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -427,15 +134,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">seeding new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">seeding new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -443,15 +150,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -459,15 +166,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Mowing the grass</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Mowing the grass</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -475,15 +182,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -491,15 +198,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Weeding planted
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Weeding planted
                                              areas</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -507,15 +214,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -523,15 +230,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -544,15 +251,15 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Trimming of
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Trimming of
                                              hedges</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -560,15 +267,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Junk Removal</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Junk Removal</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -576,15 +283,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Pruning plants for
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Pruning plants for
                                              healthy growth</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -592,15 +299,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">seeding new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">seeding new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -608,15 +315,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">lawn and garden
+                                       <h4 class="portfolio-title"><a href="portfolio-details">lawn and garden
                                              maintenance</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -624,15 +331,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Tree-Trimming &
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Tree-Trimming &
                                              Removal</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -640,15 +347,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -656,15 +363,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Mowing the grass</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Mowing the grass</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -672,15 +379,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -688,15 +395,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Weeding planted
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Weeding planted
                                              areas</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -704,15 +411,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -720,15 +427,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -741,15 +448,15 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Pruning plants for
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Pruning plants for
                                              healthy growth</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -757,15 +464,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">seeding new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">seeding new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -773,15 +480,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">lawn and garden
+                                       <h4 class="portfolio-title"><a href="portfolio-details">lawn and garden
                                              maintenance</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -789,15 +496,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Tree-Trimming &
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Tree-Trimming &
                                              Removal</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -805,15 +512,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Trimming of
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Trimming of
                                              hedges</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -821,15 +528,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Junk Removal</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Junk Removal</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -837,15 +544,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -853,15 +560,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Mowing the grass</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Mowing the grass</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -869,15 +576,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -885,15 +592,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Weeding planted
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Weeding planted
                                              areas</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -901,15 +608,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -917,15 +624,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -937,15 +644,15 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -953,15 +660,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -969,15 +676,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Pruning plants for
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Pruning plants for
                                              healthy growth</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -985,15 +692,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">seeding new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">seeding new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1001,15 +708,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">lawn and garden
+                                       <h4 class="portfolio-title"><a href="portfolio-details">lawn and garden
                                              maintenance</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1017,15 +724,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Tree-Trimming &
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Tree-Trimming &
                                              Removal</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1033,15 +740,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Trimming of
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Trimming of
                                              hedges</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1049,15 +756,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Junk Removal</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Junk Removal</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1066,15 +773,15 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1082,15 +789,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Mowing the grass</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Mowing the grass</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1098,15 +805,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1114,15 +821,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Weeding planted
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Weeding planted
                                              areas</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1135,15 +842,15 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1151,15 +858,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Weeding planted
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Weeding planted
                                              areas</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1167,15 +874,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1183,15 +890,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">lawn and garden
+                                       <h4 class="portfolio-title"><a href="portfolio-details">lawn and garden
                                              maintenance</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1199,15 +906,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Tree-Trimming &
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Tree-Trimming &
                                              Removal</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1215,15 +922,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Trimming of
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Trimming of
                                              hedges</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1231,15 +938,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Junk Removal</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Junk Removal</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1247,15 +954,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Pruning plants for
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Pruning plants for
                                              healthy growth</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1263,15 +970,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">seeding new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">seeding new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1279,15 +986,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1295,15 +1002,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Mowing the grass</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Mowing the grass</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1312,15 +1019,15 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1332,15 +1039,15 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Junk Removal</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Junk Removal</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1348,15 +1055,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Pruning plants for
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Pruning plants for
                                              healthy growth</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1364,15 +1071,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">seeding new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">seeding new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1380,15 +1087,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">lawn and garden
+                                       <h4 class="portfolio-title"><a href="portfolio-details">lawn and garden
                                              maintenance</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1396,15 +1103,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Tree-Trimming &
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Tree-Trimming &
                                              Removal</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1412,15 +1119,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Trimming of
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Trimming of
                                              hedges</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1429,15 +1136,15 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1445,15 +1152,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Mowing the grass</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Mowing the grass</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1461,15 +1168,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1477,15 +1184,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Weeding planted
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Weeding planted
                                              areas</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1493,15 +1200,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">watering plants</a>
+                                       <h4 class="portfolio-title"><a href="portfolio-details">watering plants</a>
                                        </h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1509,15 +1216,15 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details.html"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
-                                    <a href="portfolio-details.html" class="portfolio-hover-bg"></a>
+                                    <a href="portfolio-details" class="portfolio-hover-bg"></a>
                                     <div class="portfolio-inner">
                                        <span class="portfolio-tag">gardening</span>
-                                       <h4 class="portfolio-title"><a href="portfolio-details.html">Planting new trees
+                                       <h4 class="portfolio-title"><a href="portfolio-details">Planting new trees
                                              and plants</a></h4>
-                                       <a href="portfolio-details.html" class="icon-btn"><i
+                                       <a href="portfolio-details" class="icon-btn"><i
                                              class="fal fa-long-arrow-right"></i></a>
                                     </div>
                                  </div>
@@ -1534,193 +1241,3 @@
          </div>
       </div>
       <!-- portfolio area end  -->
-
-
-   </main>
-
-   <!-- footer area start  -->
-   <footer data-background="" class="footer1-bg">
-      <section class="footer-area footer-area1 footer-area1-bg pt-95 pb-55">
-         <div class="footer-bg-shape">
-            <img src="assets/img/shape/pattern.png" alt="">
-         </div>
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="footer-widget footer1-widget footer1-widget1 mb-40">
-                     <div class="footer-widget-title">
-                        <h4>about us</h4>
-                     </div>
-                     <p class="mb-35">Is that lawn is an open space between woods
-                        or lawn can be uncountable a type of thin linen
-                        or cotton while garden is an outdoor area
-                        containing one or more types of plants</p>
-                     <div class="footer-support">
-                        <div class="irc-item support-meta">
-                           <div class="irc-item-icon">
-                              <i class="fas fa-phone-alt"></i>
-                           </div>
-                           <div class="irc-item-content">
-                              <p>Emergency Call</p>
-                              <div class="support-number"><a href="tel:98965963168">989 659 631 68</a></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="footer-widget footer1-widget footer1-widget2 mb-40">
-                     <div class="footer-widget-title">
-                        <h4>main pages</h4>
-                     </div>
-                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">about</a></li>
-                        <li><a href="#">services</a></li>
-                        <li><a href="#">news</a></li>
-                        <li><a href="#">pricing</a></li>
-                     </ul>
-                     <ul>
-                        <li><a href="#">refund policy</a></li>
-                        <li><a href="#">Get in touch</a></li>
-                        <li><a href="#">Emergency</a></li>
-                        <li><a href="#">get a quote</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="footer-widget footer1-widget footer1-widget3 mb-40 ">
-                     <div class="footer-widget-title">
-                        <h4>our services</h4>
-                     </div>
-                     <ul>
-                        <li><a href="#">Lawn Moving</a></li>
-                        <li><a href="#">Hedge Cutting</a></li>
-                        <li><a href="#">Flower Planting</a></li>
-                        <li><a href="#">Garden Remodeling</a></li>
-                        <li><a href="#">Garden Restoration</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6 col-sm-6">
-                  <div class="footer-widget footer1-widget footer1-widget4 mb-40 ">
-                     <div class="footer-widget-title">
-                        <h4>get in touch</h4>
-                     </div>
-                     <div class="footer-contact">
-                        <ul>
-                           <li>
-                              <div class="single-contact">
-                                 <div class="contact-icon">
-                                    <i class="fas fa-phone"></i>
-                                 </div>
-                                 <p><a href="tel:1-800-700-600">1-800-700-600</a></p>
-                              </div>
-                           </li>
-                           <li>
-                              <div class="single-contact">
-                                 <div class="contact-icon">
-                                    <i class="fas fa-envelope-open"></i>
-                                 </div>
-                                 <p><a href="mailto:info@bdevs-email.com">info@bdevs-email.com</a></p>
-                              </div>
-                           </li>
-                           <li>
-                              <div class="single-contact">
-                                 <div class="contact-icon">
-                                    <i class="fas fa-map-marked-alt"></i>
-                                 </div>
-                                 <p><a href="#">60 East 65th Street, New York
-                                       City, NY 10065</a></p>
-                              </div>
-                           </li>
-                        </ul>
-                     </div>
-                     <div class="footer-social">
-                        <span>Connect:</span>
-                        <div class="social-links">
-                           <ul>
-                              <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                              <li><a href="#"><i class="fab fa-behance"></i></a></li>
-                              <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                              <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-
-      <div class="copyright-area copyright1-area">
-         <div class="container">
-            <div class="copyright1-inner">
-               <div class="row align-items-center">
-                  <div class="col-lg-3 col-md-4">
-                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/img/logo/logo-w.png" alt=""></a>
-                     </div>
-                  </div>
-                  <div class="col-lg-6 col-md-6">
-                     <div class="copyright-text copyright1-text">
-                        Copyright & Design By <a href="https://themeforest.net/user/bdevs/portfolio">@BDevs</a> - 2022
-                     </div>
-                  </div>
-                  <div class="col-lg-3 col-md-2">
-                     <div class="go-top-btn">
-                        <a class="go-top" href="#"><i class="fal fa-long-arrow-up"></i></a>
-                     </div>
-                  </div>
-               </div>
-
-            </div>
-         </div>
-      </div>
-   </footer>
-   <!-- footer area end  -->
-
-   <!-- pre loader area start -->
-   <div id="loading">
-      <div id="loading-center">
-         <div id="loading-center-absolute">
-            <div class="loading-icon text-center d-flex flex-column align-items-center justify-content-center">
-               <img src="assets/img/logo/logo-text.png" alt="logo-img">
-               <img class="loading-logo" src="assets/img/logo/preloader.svg" alt="img">
-            </div>
-         </div>
-      </div>
-   </div>
-   <!-- pre loader area end -->
-
-   <!-- back to top start -->
-   <div class="progress-wrap">
-      <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-         <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-      </svg>
-   </div>
-   <!-- back to top end -->
-
-
-   <!-- JS here -->
-   <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-   <script src="assets/js/vendor/waypoints.min.js"></script>
-   <script src="assets/js/bootstrap.bundle.min.js"></script>
-   <script src="assets/js/meanmenu.js"></script>
-   <script src="assets/js/swiper-bundle.min.js"></script>
-   <script src="assets/js/owl.carousel.min.js"></script>
-   <script src="assets/js/magnific-popup.min.js"></script>
-   <script src="assets/js/parallax.min.js"></script>
-   <script src="assets/js/backToTop.js"></script>
-   <script src="assets/js/jquery-ui-slider-range.js"></script>
-   <script src="assets/js/nice-select.min.js"></script>
-   <script src="assets/js/counterup.min.js"></script>
-   <script src="assets/js/ajax-form.js"></script>
-   <script src="assets/js/wow.min.js"></script>
-   <script src="assets/js/beforeafter.jquery-1.0.0.js"></script>
-   <script src="assets/js/isotope.pkgd.min.js"></script>
-   <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-   <script src="assets/js/main.js"></script>
-</body>
-
-</html>

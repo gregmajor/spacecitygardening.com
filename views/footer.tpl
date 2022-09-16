@@ -11,13 +11,13 @@
                   <div class="col-lg-8 col-md-12 col-sm-12">
                      <div class="footer-widget footer4-widget footer4-widget1 mb-0">
                         <div class="footer-logo">
-                           <a href="index.html"><img src="static/img/logo/logo-w.png" alt=""></a>
+                           <a href="index"><img src="static/img/logo/logo-w.png" alt=""></a>
                         </div>
                         <div class="footer-text">
                            <p>Thank you for visiting!</p>
                         </div>
                         <div class="footer-btn">
-                           <a href="contact.html" class="border-btn"><i class="fal fa-farm"></i><span>Contact Us</span></a>
+                           <a href="contact" class="border-btn"><i class="fal fa-farm"></i><span>Contact Us</span></a>
                         </div>
                         <div class="footer-social">
                            <span>Connect With Us:</span>

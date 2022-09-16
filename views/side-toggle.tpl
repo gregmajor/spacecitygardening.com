@@ -5,7 +5,7 @@
                <div class="offset-widget offset-logo mb-40">
                   <div class="row align-items-center">
                      <div class="col-9">
-                        <a href="index.html">
+                        <a href="index">
                            <img src="static/img/logo/logo-bl.png" alt="Logo">
                         </a>
                      </div>
@@ -58,10 +58,10 @@
             <div class="sidebar-action-list">
                <div class="sidebar-list-item">
                   <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="static/img/product/product-6.png" alt="img"></a>
+                     <a href="shop-details" class=""><img src="static/img/product/product-6.png" alt="img"></a>
                   </div>
                   <div class="product-desc">
-                     <div class="product-name"><a href="shop-details.html">Giardino Tools</a></div>
+                     <div class="product-name"><a href="shop-details">Giardino Tools</a></div>
                      <div class="product-pricing">
                         <span class="item-number">1 ×</span>
                         <span class="price-now">$24.00</span>
@@ -71,10 +71,10 @@
                </div>
                <div class="sidebar-list-item">
                   <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="static/img/product/product-8.png" alt="img"></a>
+                     <a href="shop-details" class=""><img src="static/img/product/product-8.png" alt="img"></a>
                   </div>
                   <div class="product-desc">
-                     <div class="product-name"><a href="shop-details.html">Bloom Season</a></div>
+                     <div class="product-name"><a href="shop-details">Bloom Season</a></div>
                      <div class="product-pricing">
                         <span class="item-number">1 ×</span>
                         <span class="price-now">$12.00</span>
@@ -84,10 +84,10 @@
                </div>
                <div class="sidebar-list-item">
                   <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="static/img/product/product-10.png" alt="img"></a>
+                     <a href="shop-details" class=""><img src="static/img/product/product-10.png" alt="img"></a>
                   </div>
                   <div class="product-desc">
-                     <div class="product-name"><a href="shop-details.html">the best dirt</a></div>
+                     <div class="product-name"><a href="shop-details">the best dirt</a></div>
                      <div class="product-pricing">
                         <span class="item-number">1 ×</span>
                         <span class="price-now">$42.00</span>
@@ -102,8 +102,8 @@
                <span class="subtotal-price">$78.00</span>
             </div>
             <div class="sidebar-action-btn">
-               <a href="cart.html" class="fill-btn">View cart</a>
-               <a href="checkout.html" class="border-btn">Checkout</a>
+               <a href="cart" class="fill-btn">View cart</a>
+               <a href="checkout" class="border-btn">Checkout</a>
             </div>
          </div>
       </div>

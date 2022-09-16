@@ -40,8 +40,8 @@
                   <div class="header-main-content-wrapper">
                      <div class="header-main-left header-main-left-header4">
                         <div class="header-logo header4-logo">
-                           <a href="index.html" class="logo-w"><img src="static/img/logo/space-city-gardening-logo-web.png" alt="logo-img"></a>
-                           <!-- <a style="color:greenyellow; font-size:24px; text-transform: uppercase; margin-bottom: 15px; position: relative;" href="index.html">Space City Gardening</a> -->
+                           <a href="index" class="logo-w"><img src="static/img/logo/space-city-gardening-logo-web.png" alt="logo-img"></a>
+                           <!-- <a style="color:greenyellow; font-size:24px; text-transform: uppercase; margin-bottom: 15px; position: relative;" href="index">Space City Gardening</a> -->
                         </div>
                      </div>
                      <div class="header-main-right header-main-right-header4">
@@ -49,25 +49,25 @@
                            <nav id="mobile-menu2">
                               <ul>
                                  </li>
-                                 <li class="menu-item-has-children"><a href="about.html">About Us</a>
+                                 <li class="menu-item-has-children"><a href="about">About Us</a>
                                     <ul class="sub-menu">
-                                       <li><a href="team.html">Team</a></li>
+                                       <li><a href="team">Team</a></li>
                                     </ul>
-                                 <li class="menu-item-has-children"><a href="resources.html">Resources</a>
+                                 <li class="menu-item-has-children"><a href="resources">Resources</a>
                                     <ul class="sub-menu">
-                                       <li><a href="services.html">Services</a></li>
+                                       <li><a href="services">Services</a></li>
                                     </ul>
                                     <ul class="sub-menu">
-                                       <li class="menu-item-has-children"><a href="portfolio.html">Portfolio</a></li>
+                                       <li class="menu-item-has-children"><a href="portfolio">Portfolio</a></li>
                                     </ul>
                                  </li>
-                                 <li><a href="blog.html">Blog</a></li>
-                                 <li><a href="faq.html">FAQ</a></li>
-                                 <li><a href="contact.html">Contact</a></li>
+                                 <li><a href="blog">Blog</a></li>
+                                 <li><a href="faq">FAQ</a></li>
+                                 <li><a href="contact">Contact</a></li>
                               </ul>
                            </nav>
                         </div>
-                        <!-- <a href="contact.html" class="border-btn d-none d-xl-inline-flex"><i
+                        <!-- <a href="contact" class="border-btn d-none d-xl-inline-flex"><i
                               class="fal fa-farm"></i><span>Get a Quote</span></a> -->
                         <div class="menu-bar d-lg-none">
                            <a class="side-toggle" href="javascript:void(0)">

@@ -17,9 +17,9 @@
                                     <span>Information and resources for gardeners in the Greater Houston Area</span>
                                  </div>
                                  <div class="banner-btn" data-animation="fadeInUp" data-delay=".7s">
-                                    <a href="contact.html" class="fill-btn">Get estimate<i
+                                    <a href="contact" class="fill-btn">Get estimate<i
                                           class="fal fa-long-arrow-right"></i></a>
-                                    <a href="contact.html" class="border-btn">learn more<i
+                                    <a href="contact" class="border-btn">learn more<i
                                           class="fal fa-long-arrow-right"></i></a>
                                  </div>
                               </div>
@@ -43,9 +43,9 @@
                                     <span>Information and resources for gardeners in the Greater Houston Area</span>
                                  </div>
                                  <div class="banner-btn" data-animation="fadeInUp" data-delay=".7s">
-                                    <a href="contact.html" class="fill-btn">Get estimate<i
+                                    <a href="contact" class="fill-btn">Get estimate<i
                                           class="fal fa-long-arrow-right"></i></a>
-                                    <a href="contact.html" class="border-btn">learn more<i
+                                    <a href="contact" class="border-btn">learn more<i
                                           class="fal fa-long-arrow-right"></i></a>
                                  </div>
                               </div>
@@ -69,9 +69,9 @@
                                     <span>Information and resources for gardeners in the Greater Houston Area</span>
                                  </div>
                                  <div class="banner-btn" data-animation="fadeInUp" data-delay=".7s">
-                                    <a href="contact.html" class="fill-btn">Get estimate<i
+                                    <a href="contact" class="fill-btn">Get estimate<i
                                           class="fal fa-long-arrow-right"></i></a>
-                                    <a href="contact.html" class="border-btn">learn more<i
+                                    <a href="contact" class="border-btn">learn more<i
                                           class="fal fa-long-arrow-right"></i></a>
                                  </div>
                               </div>
@@ -101,9 +101,9 @@
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
-                           <h4 class="service-title"><a href="service-details.html">Planting Calendar</a></h4>
+                           <h4 class="service-title"><a href="service-details">Planting Calendar</a></h4>
                            <p>All the important dates you need to know.</p>
-                           <a href="service-details.html" class="text-btn"><i class="fal fa-long-arrow-right"></i>Let's go<i class="fal fa-long-arrow-right"></i></a>
+                           <a href="service-details" class="text-btn"><i class="fal fa-long-arrow-right"></i>Let's go<i class="fal fa-long-arrow-right"></i></a>
                         </div>
                      </div>
                   </div>
@@ -114,9 +114,9 @@
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
-                           <h4 class="service-title"><a href="service-details.html">Plant Information</a></h4>
+                           <h4 class="service-title"><a href="service-details">Plant Information</a></h4>
                            <p>Information about vegetables, trees, and ornamental plants in our area.</p>
-                           <a href="service-details.html" class="text-btn"><i class="fal fa-long-arrow-right"></i>Let's go<i class="fal fa-long-arrow-right"></i></a>
+                           <a href="service-details" class="text-btn"><i class="fal fa-long-arrow-right"></i>Let's go<i class="fal fa-long-arrow-right"></i></a>
                         </div>
                      </div>
                   </div>
@@ -127,9 +127,9 @@
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
-                           <h4 class="service-title"><a href="service-details.html">Links and References</a></h4>
+                           <h4 class="service-title"><a href="service-details">Links and References</a></h4>
                            <p>Useful sites, downloads, and much more.</p>
-                           <a href="service-details.html" class="text-btn"><i class="fal fa-long-arrow-right"></i>Let's go<i class="fal fa-long-arrow-right"></i></a>
+                           <a href="service-details" class="text-btn"><i class="fal fa-long-arrow-right"></i>Let's go<i class="fal fa-long-arrow-right"></i></a>
                         </div>
                      </div>
                   </div>
@@ -155,7 +155,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single style-4 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="static/img/blog/blog-11.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-11.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -170,10 +170,10 @@
                                  </div>
                               </div>
                            </div>
-                           <h2 class="blog-title"><a href="blog-details.html">Most gardens consist of
+                           <h2 class="blog-title"><a href="blog-details">Most gardens consist of
                                  a mix of natural</a></h2>
                            <div class="blog-btn">
-                              <a href="blog-details.html" class="text-btn"><i class="fal fa-long-arrow-right"></i>read
+                              <a href="blog-details" class="text-btn"><i class="fal fa-long-arrow-right"></i>read
                                  more<i class="fal fa-long-arrow-right"></i></a>
                            </div>
                         </div>
@@ -182,7 +182,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single style-4 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="static/img/blog/blog-12.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-12.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -197,10 +197,10 @@
                                  </div>
                               </div>
                            </div>
-                           <h2 class="blog-title"><a href="blog-details.html">Place your garden in a
+                           <h2 class="blog-title"><a href="blog-details">Place your garden in a
                                  part of your yard</a></h2>
                            <div class="blog-btn">
-                              <a href="blog-details.html" class="text-btn"><i class="fal fa-long-arrow-right"></i>read
+                              <a href="blog-details" class="text-btn"><i class="fal fa-long-arrow-right"></i>read
                                  more<i class="fal fa-long-arrow-right"></i></a>
                            </div>
                         </div>
@@ -209,7 +209,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single style-4 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="static/img/blog/blog-13.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-13.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -224,10 +224,10 @@
                                  </div>
                               </div>
                            </div>
-                           <h2 class="blog-title"><a href="blog-details.html">you'll see it regularly of
+                           <h2 class="blog-title"><a href="blog-details">you'll see it regularly of
                                  sight, out of mind</a></h2>
                            <div class="blog-btn">
-                              <a href="blog-details.html" class="text-btn"><i class="fal fa-long-arrow-right"></i>read
+                              <a href="blog-details" class="text-btn"><i class="fal fa-long-arrow-right"></i>read
                                  more<i class="fal fa-long-arrow-right"></i></a>
                            </div>
                         </div>

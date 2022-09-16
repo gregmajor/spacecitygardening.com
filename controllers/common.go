@@ -4,11 +4,11 @@ import (
 	beego "github.com/beego/beego/v2/server/web"
 )
 
-type MainController struct {
+type Common struct {
 	beego.Controller
 }
 
-func (this *MainController) configureContent(view string) {
+func (this *Common) setLayout(view string) {
 	this.Layout = "layout.tpl"
 
 	this.LayoutSections = make(map[string]string)
@@ -19,11 +19,4 @@ func (this *MainController) configureContent(view string) {
 	this.LayoutSections["Preloader"] = "preloader.tpl"
 
 	this.TplName = view + ".tpl"
-}
-
-func (this *MainController) Get() {
-	this.Data["Website"] = "beego.me"
-	this.Data["Email"] = "astaxie@gmail.com"
-
-	this.configureContent("index")
 }
