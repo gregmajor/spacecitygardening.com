@@ -13,7 +13,5 @@ func main() {
 		beego.BConfig.Listen.HTTPPort = port
 	} 
 
-	beego.SetStaticPath("/assets", "assets")
-
 	beego.Run()
 }
