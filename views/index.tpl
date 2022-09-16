@@ -8,22 +8,22 @@
    <meta name="description" content="Information and resources for gardeners in the greater Houston area.">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+   <link rel="shortcut icon" type="image/x-icon" href="static/img/favicon.png">
    <!-- CSS here -->
-   <link rel="stylesheet" href="assets/css/preloader.css">
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/meanmenu.css">
-   <link rel="stylesheet" href="assets/css/animate.min.css">
-   <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
-   <link rel="stylesheet" href="assets/css/backToTop.css">
-   <link rel="stylesheet" href="assets/css/magnific-popup.css">
-   <link rel="stylesheet" href="assets/css/ui-range-slider.css">
-   <link rel="stylesheet" href="assets/css/nice-select.css">
-   <link rel="stylesheet" href="assets/css/fontAwesome5Pro.css">
-   <link rel="stylesheet" href="assets/css/flaticon.css">
-   <link rel="stylesheet" href="assets/css/default.css">
-   <link rel="stylesheet" href="assets/css/style.css">
+   <link rel="stylesheet" href="static/css/preloader.css">
+   <link rel="stylesheet" href="static/css/bootstrap.min.css">
+   <link rel="stylesheet" href="static/css/meanmenu.css">
+   <link rel="stylesheet" href="static/css/animate.min.css">
+   <link rel="stylesheet" href="static/css/owl.carousel.min.css">
+   <link rel="stylesheet" href="static/css/swiper-bundle.css">
+   <link rel="stylesheet" href="static/css/backToTop.css">
+   <link rel="stylesheet" href="static/css/magnific-popup.css">
+   <link rel="stylesheet" href="static/css/ui-range-slider.css">
+   <link rel="stylesheet" href="static/css/nice-select.css">
+   <link rel="stylesheet" href="static/css/fontAwesome5Pro.css">
+   <link rel="stylesheet" href="static/css/flaticon.css">
+   <link rel="stylesheet" href="static/css/default.css">
+   <link rel="stylesheet" href="static/css/style.css">
 </head>
 
 <body>
@@ -40,7 +40,7 @@
                   <div class="header-main-content-wrapper">
                      <div class="header-main-left header-main-left-header4">
                         <div class="header-logo header4-logo">
-                           <a href="index.html" class="logo-w"><img src="assets/img/logo/space-city-gardening-logo-web.png" alt="logo-img"></a>
+                           <a href="index.html" class="logo-w"><img src="static/img/logo/space-city-gardening-logo-web.png" alt="logo-img"></a>
                            <!-- <a style="color:greenyellow; font-size:24px; text-transform: uppercase; margin-bottom: 15px; position: relative;" href="index.html">Space City Gardening</a> -->
                         </div>
                      </div>
@@ -96,7 +96,7 @@
                   <div class="row align-items-center">
                      <div class="col-9">
                         <a href="index.html">
-                           <img src="assets/img/logo/logo-bl.png" alt="Logo">
+                           <img src="static/img/logo/logo-bl.png" alt="Logo">
                         </a>
                      </div>
                      <div class="col-3 text-end"><button class="side-info-close"><i class="fal fa-times"></i></button>
@@ -148,7 +148,7 @@
             <div class="sidebar-action-list">
                <div class="sidebar-list-item">
                   <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="assets/img/product/product-6.png" alt="img"></a>
+                     <a href="shop-details.html" class=""><img src="static/img/product/product-6.png" alt="img"></a>
                   </div>
                   <div class="product-desc">
                      <div class="product-name"><a href="shop-details.html">Giardino Tools</a></div>
@@ -161,7 +161,7 @@
                </div>
                <div class="sidebar-list-item">
                   <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="assets/img/product/product-8.png" alt="img"></a>
+                     <a href="shop-details.html" class=""><img src="static/img/product/product-8.png" alt="img"></a>
                   </div>
                   <div class="product-desc">
                      <div class="product-name"><a href="shop-details.html">Bloom Season</a></div>
@@ -174,7 +174,7 @@
                </div>
                <div class="sidebar-list-item">
                   <div class="product-image pos-rel">
-                     <a href="shop-details.html" class=""><img src="assets/img/product/product-10.png" alt="img"></a>
+                     <a href="shop-details.html" class=""><img src="static/img/product/product-10.png" alt="img"></a>
                   </div>
                   <div class="product-desc">
                      <div class="product-name"><a href="shop-details.html">the best dirt</a></div>
@@ -205,7 +205,7 @@
             <div class="swiper-wrapper">
                <div class="swiper-slide">
                   <div class="single-banner single-banner-3 banner-970 d-flex align-items-center pos-rel">
-                     <div class="banner-bg banner-bg4 banner-bg4-1" data-background="assets/img/banner/banner-vegetables-01.jpg">
+                     <div class="banner-bg banner-bg4 banner-bg4-1" data-background="static/img/banner/banner-vegetables-01.jpg">
                      </div>
                      <div class="container pos-rel">
                         <div class="row justify-content-center">
@@ -231,7 +231,7 @@
                </div>
                <div class="swiper-slide">
                   <div class="single-banner single-banner-3 banner-970 d-flex align-items-center pos-rel">
-                     <div class="banner-bg banner-bg4 banner-bg4-1" data-background="assets/img/banner/banner-vegetables-02.jpg">
+                     <div class="banner-bg banner-bg4 banner-bg4-1" data-background="static/img/banner/banner-vegetables-02.jpg">
                      </div>
                      <div class="container pos-rel">
                         <div class="row justify-content-center">
@@ -257,7 +257,7 @@
                </div>
                <div class="swiper-slide">
                   <div class="single-banner single-banner-3 banner-970 d-flex align-items-center pos-rel">
-                     <div class="banner-bg banner-bg4 banner-bg4-1" data-background="assets/img/banner/banner-vegetables-03.jpg">
+                     <div class="banner-bg banner-bg4 banner-bg4-1" data-background="static/img/banner/banner-vegetables-03.jpg">
                      </div>
                      <div class="container pos-rel">
                         <div class="row justify-content-center">
@@ -298,7 +298,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-style-4 mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/calender-icon.png" alt="service icon">
+                           <img src="static/img/icon/calender-icon.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -311,7 +311,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-style-4 mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/pricing-icon-1.png" alt="service icon">
+                           <img src="static/img/icon/pricing-icon-1.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -324,7 +324,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-style-4 mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon3.png" alt="service icon">
+                           <img src="static/img/icon/s-icon3.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -356,7 +356,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single style-4 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-11.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-11.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -383,7 +383,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single style-4 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-12.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-12.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -410,7 +410,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single style-4 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-13.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-13.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -445,7 +445,7 @@
          <div class="container">
             <div class="newsletter-wrapper style-4 wow fadeInUp" data-wow-delay=".3s">
                <div class="newsletter-bg">
-                  <img src="assets/img/bg/newsletter-bg.jpg" alt="">
+                  <img src="static/img/bg/newsletter-bg.jpg" alt="">
                </div>
                <div class="row align-items-center">
                   <div class="col-lg-6">
@@ -494,27 +494,27 @@
                            <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                  <div class="client-single">
-                                    <a href="#"><img src="assets/img/client/client-1.png" alt=""></a>
+                                    <a href="#"><img src="static/img/client/client-1.png" alt=""></a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="client-single">
-                                    <a href="#"><img src="assets/img/client/client-2.png" alt=""></a>
+                                    <a href="#"><img src="static/img/client/client-2.png" alt=""></a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="client-single">
-                                    <a href="#"><img src="assets/img/client/client-3.png" alt=""></a>
+                                    <a href="#"><img src="static/img/client/client-3.png" alt=""></a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="client-single">
-                                    <a href="#"><img src="assets/img/client/client-4.png" alt=""></a>
+                                    <a href="#"><img src="static/img/client/client-4.png" alt=""></a>
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="client-single">
-                                    <a href="#"><img src="assets/img/client/client-5.png" alt=""></a>
+                                    <a href="#"><img src="static/img/client/client-5.png" alt=""></a>
                                  </div>
                               </div>
                            </div>
@@ -534,7 +534,7 @@
 
       <div class="footer-area footer-area4 footer-area4-bg pt-120 pb-120">
          <div class="footer-4-bg-img">
-            <img src="assets/img/bg/footer-4-bg.jpg" alt="">
+            <img src="static/img/bg/footer-4-bg.jpg" alt="">
          </div>
          <div class="container">
             <div class="footer4-inner footer-4-plant-shape">
@@ -542,7 +542,7 @@
                   <div class="col-lg-8 col-md-12 col-sm-12">
                      <div class="footer-widget footer4-widget footer4-widget1 mb-0">
                         <div class="footer-logo">
-                           <a href="index.html"><img src="assets/img/logo/logo-w.png" alt=""></a>
+                           <a href="index.html"><img src="static/img/logo/logo-w.png" alt=""></a>
                         </div>
                         <div class="footer-text">
                            <p>Thank you for visiting!</p>
@@ -575,8 +575,8 @@
       <div id="loading-center">
          <div id="loading-center-absolute">
             <div class="loading-icon text-center d-flex flex-column align-items-center justify-content-center">
-               <img src="assets/img/logo/logo-text.png" alt="logo-img">
-               <img class="loading-logo" src="assets/img/logo/preloader.svg" alt="img">
+               <img src="static/img/logo/logo-text.png" alt="logo-img">
+               <img class="loading-logo" src="static/img/logo/preloader.svg" alt="img">
             </div>
          </div>
       </div>
@@ -592,24 +592,24 @@
    <!-- END: Back To Top -->
 
    <!-- JS here -->
-   <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-   <script src="assets/js/vendor/waypoints.min.js"></script>
-   <script src="assets/js/bootstrap.bundle.min.js"></script>
-   <script src="assets/js/meanmenu.js"></script>
-   <script src="assets/js/swiper-bundle.min.js"></script>
-   <script src="assets/js/owl.carousel.min.js"></script>
-   <script src="assets/js/magnific-popup.min.js"></script>
-   <script src="assets/js/parallax.min.js"></script>
-   <script src="assets/js/backToTop.js"></script>
-   <script src="assets/js/jquery-ui-slider-range.js"></script>
-   <script src="assets/js/nice-select.min.js"></script>
-   <script src="assets/js/counterup.min.js"></script>
-   <script src="assets/js/ajax-form.js"></script>
-   <script src="assets/js/wow.min.js"></script>
-   <script src="assets/js/beforeafter.jquery-1.0.0.js"></script>
-   <script src="assets/js/isotope.pkgd.min.js"></script>
-   <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-   <script src="assets/js/main.js"></script>
+   <script src="static/js/vendor/jquery-3.6.0.min.js"></script>
+   <script src="static/js/vendor/waypoints.min.js"></script>
+   <script src="static/js/bootstrap.bundle.min.js"></script>
+   <script src="static/js/meanmenu.js"></script>
+   <script src="static/js/swiper-bundle.min.js"></script>
+   <script src="static/js/owl.carousel.min.js"></script>
+   <script src="static/js/magnific-popup.min.js"></script>
+   <script src="static/js/parallax.min.js"></script>
+   <script src="static/js/backToTop.js"></script>
+   <script src="static/js/jquery-ui-slider-range.js"></script>
+   <script src="static/js/nice-select.min.js"></script>
+   <script src="static/js/counterup.min.js"></script>
+   <script src="static/js/ajax-form.js"></script>
+   <script src="static/js/wow.min.js"></script>
+   <script src="static/js/beforeafter.jquery-1.0.0.js"></script>
+   <script src="static/js/isotope.pkgd.min.js"></script>
+   <script src="static/js/imagesloaded.pkgd.min.js"></script>
+   <script src="static/js/main.js"></script>
 </body>
 
 </html>
