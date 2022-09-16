@@ -17,7 +17,7 @@ COPY --from=build /app /app
 ENV HOME /app
 WORKDIR /app
 RUN mv /app/bin/* /app
-RUN ls
+RUN boogie blarg boofy fuck
 RUN ls /app/bin/
 RUN useradd -m heroku
 USER heroku
