@@ -16,6 +16,7 @@ FROM heroku/heroku:22
 COPY --from=build /app /app
 ENV HOME /app
 WORKDIR /app
+RUN mv /bin/* /
 RUN useradd -m heroku
 USER heroku
 CMD /app/bin/spacecitygardening.com
