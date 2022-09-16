@@ -592,8 +592,8 @@
    <!-- END: Back To Top -->
 
    <!-- JS here -->
-   <script src="static/js/vendor/jquery-3.6.0.min.js"></script>
-   <script src="static/js/vendor/waypoints.min.js"></script>
+   <script src="https://code.jquery.com/jquery-3.6.1.slim.min.js" integrity="sha256-w8CvhFs7iHNVUtnSP0YKEg00p9Ih13rlL9zGqvLdePA=" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js"></script>
    <script src="static/js/bootstrap.bundle.min.js"></script>
    <script src="static/js/meanmenu.js"></script>
    <script src="static/js/swiper-bundle.min.js"></script>
