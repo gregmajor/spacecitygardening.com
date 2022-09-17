@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -35,7 +35,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-1.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-1.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Plant scientist</span>
@@ -55,7 +55,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-2.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-2.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Landscape architect</span>
@@ -75,7 +75,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-3.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-3.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Landscaper</span>
@@ -95,7 +95,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-4.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-4.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Horticultural therapist</span>
@@ -115,7 +115,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-5.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-5.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Gardener</span>
@@ -135,7 +135,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-6.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-6.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Groundskeeper</span>
@@ -155,7 +155,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-7.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-7.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Horticulturist</span>
@@ -175,7 +175,7 @@
                      <div class="team-single mb-30">
                         <div class="team-member-wrapper">
                            <div class="member-img">
-                              <a href="team-details"><img src="assets/img/team/team-8.jpg" alt=""></a>
+                              <a href="team-details"><img src="static/img/team/team-8.jpg" alt=""></a>
                            </div>
                            <div class="member-content">
                               <span class="member-designation">Farm laborer</span>
@@ -210,15 +210,15 @@
                            chosen by our expert</h2>
                      </div>
                      <div class="team-award-logo">
-                        <a href="#"><img src="assets/img/team/team-award1.png" alt=""></a>
-                        <a href="#"><img src="assets/img/team/team-award2.png" alt=""></a>
-                        <a href="#"><img src="assets/img/team/team-award3.png" alt=""></a>
+                        <a href="#"><img src="static/img/team/team-award1.png" alt=""></a>
+                        <a href="#"><img src="static/img/team/team-award2.png" alt=""></a>
+                        <a href="#"><img src="static/img/team/team-award3.png" alt=""></a>
                      </div>
                   </div>
                </div>
                <div class="col-xl-5 col-lg-5">
                   <div class="team-intro-thumb">
-                     <img src="assets/img/team/team-intro-img.jpg" alt="">
+                     <img src="static/img/team/team-intro-img.jpg" alt="">
                   </div>
                </div>
             </div>
@@ -242,7 +242,7 @@
                   <div class="col-xl-8 col-lg-12 order-xl-2">
                      <div class="blog-single style-5 mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details"><img src="assets/img/blog/blog-15.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-15.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -272,7 +272,7 @@
                   <div class="col-xl-4 col-lg-6 order-xl-1">
                      <div class="blog-single style-5 mb-45">
                         <div class="blog-thumb d-none">
-                           <a href="blog-details"><img src="assets/img/blog/blog-15.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-15.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">

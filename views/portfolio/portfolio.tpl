@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -54,7 +54,7 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -70,7 +70,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -86,7 +86,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -102,7 +102,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -118,7 +118,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -134,7 +134,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -150,7 +150,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -166,7 +166,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -182,7 +182,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -198,7 +198,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -214,7 +214,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -230,7 +230,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -251,7 +251,7 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -267,7 +267,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -283,7 +283,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -299,7 +299,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -315,7 +315,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -331,7 +331,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -347,7 +347,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -363,7 +363,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -379,7 +379,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -395,7 +395,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -411,7 +411,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -427,7 +427,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -448,7 +448,7 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -464,7 +464,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -480,7 +480,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -496,7 +496,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -512,7 +512,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -528,7 +528,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -544,7 +544,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -560,7 +560,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -576,7 +576,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -592,7 +592,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -608,7 +608,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -624,7 +624,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -644,7 +644,7 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -660,7 +660,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -676,7 +676,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -692,7 +692,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -708,7 +708,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -724,7 +724,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -740,7 +740,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -756,7 +756,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -773,7 +773,7 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -789,7 +789,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -805,7 +805,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -821,7 +821,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -842,7 +842,7 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -858,7 +858,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -874,7 +874,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -890,7 +890,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -906,7 +906,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -922,7 +922,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -938,7 +938,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -954,7 +954,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -970,7 +970,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -986,7 +986,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1002,7 +1002,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1019,7 +1019,7 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1039,7 +1039,7 @@
                         <div class="portfolio-wrapper portfolio-hover-items-wrapper">
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1055,7 +1055,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-5.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-5.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1071,7 +1071,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-6.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-6.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1087,7 +1087,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-1.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-1.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1103,7 +1103,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-2.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-2.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1119,7 +1119,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1136,7 +1136,7 @@
 
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-7.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-7.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1152,7 +1152,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-8.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-8.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1168,7 +1168,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-9.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-9.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1184,7 +1184,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-10.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-10.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1200,7 +1200,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-11.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-11.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>
@@ -1216,7 +1216,7 @@
                            </div>
                            <div class="portfolio-single portfolio-hover-style">
                               <div class="portfolio-thumb">
-                                 <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-12.jpg"
+                                 <a href="portfolio-details"><img src="static/img/portfolio/portfolio-12.jpg"
                                        alt=""></a>
                                  <div class="portfolio-content">
                                     <a href="portfolio-details" class="portfolio-hover-bg"></a>

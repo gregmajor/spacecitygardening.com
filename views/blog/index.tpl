@@ -1,5 +1,5 @@
       <!-- START: Page Title -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -34,7 +34,7 @@
                   <div class="blog-main-wrapper mb-60">
                      <div class="blog-single">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-1.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-1.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="tags">
@@ -43,7 +43,7 @@
                            </div>
                            <div class="blog-author">
                               <div class="author-img">
-                                 <img src="assets/img/blog/blog-author1.jpg" alt="">
+                                 <img src="static/img/blog/blog-author1.jpg" alt="">
                               </div>
                               <h4 class="author-name">by <a href="#">Hetmayar</a></h4>
                            </div>
@@ -83,7 +83,7 @@
                      </div>
                      <div class="blog-single">
                         <div class="blog-thumb">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-2.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-2.jpg" alt=""></a>
                            <a href="https://www.youtube.com/watch?v=fSv6UgCkuTU"
                               class="play-btn popup-video play-border-effect"><i class="fas fa-play"></i></a>
                         </div>
@@ -93,7 +93,7 @@
                            </div>
                            <div class="blog-author">
                               <div class="author-img">
-                                 <img src="assets/img/blog/blog-author1.jpg" alt="">
+                                 <img src="static/img/blog/blog-author1.jpg" alt="">
                               </div>
                               <h4 class="author-name">by <a href="#">Stephen</a></h4>
                            </div>
@@ -137,13 +137,13 @@
                            <div class="swiper-container blog-thumb-slider">
                               <div class="swiper-wrapper">
                                  <div class="swiper-slide">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog-3.jpg" alt=""></a>
+                                    <a href="blog-details.html"><img src="static/img/blog/blog-3.jpg" alt=""></a>
                                  </div>
                                  <div class="swiper-slide">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog-3.jpg" alt=""></a>
+                                    <a href="blog-details.html"><img src="static/img/blog/blog-3.jpg" alt=""></a>
                                  </div>
                                  <div class="swiper-slide">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog-3.jpg" alt=""></a>
+                                    <a href="blog-details.html"><img src="static/img/blog/blog-3.jpg" alt=""></a>
                                  </div>
                               </div>
                               <div class="blog-thumb-nav blog-thumb-nav">
@@ -163,7 +163,7 @@
                            </div>
                            <div class="blog-author">
                               <div class="author-img">
-                                 <img src="assets/img/blog/blog-author1.jpg" alt="">
+                                 <img src="static/img/blog/blog-author1.jpg" alt="">
                               </div>
                               <h4 class="author-name">by <a href="#">Nelson</a></h4>
                            </div>
@@ -204,9 +204,9 @@
                      </div>
                      <div class="blog-single">
                         <div class="blog-thumb b-t-overlay bh-115">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-4.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-4.jpg" alt=""></a>
                            <div class="blog-thumb-icon">
-                              <img src="assets/img/icon/soundcloud-icon.png" alt="">
+                              <img src="static/img/icon/soundcloud-icon.png" alt="">
                            </div>
                         </div>
                         <div class="blog-content">
@@ -216,7 +216,7 @@
                            </div>
                            <div class="blog-author d-none">
                               <div class="author-img">
-                                 <img src="assets/img/blog/blog-author1.jpg" alt="">
+                                 <img src="static/img/blog/blog-author1.jpg" alt="">
                               </div>
                               <h4 class="author-name">by <a href="#">William</a></h4>
                            </div>
@@ -256,7 +256,7 @@
                      </div>
                      <div class="blog-single">
                         <div class="blog-thumb d-none">
-                           <a href="blog-details.html"><img src="assets/img/blog/blog-3.jpg" alt=""></a>
+                           <a href="blog-details.html"><img src="static/img/blog/blog-3.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="tags d-none">
@@ -265,7 +265,7 @@
                            </div>
                            <div class="blog-author d-none">
                               <div class="author-img">
-                                 <img src="assets/img/blog/blog-author1.jpg" alt="">
+                                 <img src="static/img/blog/blog-author1.jpg" alt="">
                               </div>
                               <h4 class="author-name">by <a href="#">Stephen</a></h4>
                            </div>
@@ -306,7 +306,7 @@
                      <div class="blockquote-wrapper">
                         <div class="blockquote-content">
                            <div class="blockquote-icon">
-                              <img src="assets/img/icon/quote-icon.png" alt="">
+                              <img src="static/img/icon/quote-icon.png" alt="">
                            </div>
                            <p>Office/partnership by submitting all
                               the relevant documents</p>
@@ -340,7 +340,7 @@
                         <h4 class="sidebar-widget-title">About Me</h4>
                         <div class="sidebar-about-content">
                            <div class="profile-thumb">
-                              <img src="assets/img/team/team-9.jpg" alt="">
+                              <img src="static/img/team/team-9.jpg" alt="">
                            </div>
                            <h4 class="member-name">Alonso D. Dowson</h4>
                            <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod tempor
@@ -370,7 +370,7 @@
                               <li>
                                  <div class="blog-single">
                                     <div class="blog-thumb">
-                                       <a href="blog-details.html"><img src="assets/img/blog/blog-5.jpg" alt=""></a>
+                                       <a href="blog-details.html"><img src="static/img/blog/blog-5.jpg" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                        <h2 class="blog-title"><a href="blog-details.html">Having education in
@@ -391,7 +391,7 @@
                               <li>
                                  <div class="blog-single">
                                     <div class="blog-thumb">
-                                       <a href="blog-details.html"><img src="assets/img/blog/blog-6.jpg" alt=""></a>
+                                       <a href="blog-details.html"><img src="static/img/blog/blog-6.jpg" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                        <h2 class="blog-title"><a href="blog-details.html">People think, feel, &
@@ -412,7 +412,7 @@
                               <li>
                                  <div class="blog-single">
                                     <div class="blog-thumb">
-                                       <a href="blog-details.html"><img src="assets/img/blog/blog-7.jpg" alt=""></a>
+                                       <a href="blog-details.html"><img src="static/img/blog/blog-7.jpg" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                        <h2 class="blog-title"><a href="blog-details.html">That contributes to
@@ -489,7 +489,7 @@
                      </div>
                      <div class="sidebar-widget sidebar-adv mb-50">
                         <h4 class="sidebar-widget-title">Sponsor Adds</h4>
-                        <img src="assets/img/blog/blog-sidebar-adv.jpg" alt="">
+                        <img src="static/img/blog/blog-sidebar-adv.jpg" alt="">
                      </div>
                   </div>
                </div>

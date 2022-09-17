@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -33,7 +33,7 @@
                <div class="row wow fadeInUp" data-wow-delay=".3s">
                   <div class="col-xl-5">
                      <div class="member-img">
-                        <a href="team-details"><img src="assets/img/team/team-8-full.jpg" alt=""></a>
+                        <a href="team-details"><img src="static/img/team/team-8-full.jpg" alt=""></a>
                         <div class="member-contact">
                            <ul>
                               <li>

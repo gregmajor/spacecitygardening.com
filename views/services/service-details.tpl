@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -33,7 +33,7 @@
                <div class="col-lg-9 col-md-12">
                   <div class="service-details-main mb-60">
                      <div class="service-image">
-                        <img src="assets/img/service/service-img1.jpg" alt="">
+                        <img src="static/img/service/service-img1.jpg" alt="">
                      </div>
                      <h3 class="mb-15">Service Overview</h3>
                      <p class="mb-15">Still not convinced that gaming is good for you? That’s understandable,
@@ -69,7 +69,7 @@
                         <div class="working-steps">
                            <div class="work-step">
                               <div class="work-step-icon">
-                                 <img src="assets/img/icon/work-icon1.png" alt="">
+                                 <img src="static/img/icon/work-icon1.png" alt="">
                               </div>
                               <h4>Garden Design</h4>
                               <p>Whether you are looking for plants,
@@ -77,7 +77,7 @@
                            </div>
                            <div class="work-step">
                               <div class="work-step-icon">
-                                 <img src="assets/img/icon/work-icon2.png" alt="">
+                                 <img src="static/img/icon/work-icon2.png" alt="">
                               </div>
                               <h4>soil filtering</h4>
                               <p>Whether you are looking for plants,
@@ -85,7 +85,7 @@
                            </div>
                            <div class="work-step">
                               <div class="work-step-icon">
-                                 <img src="assets/img/icon/work-icon3.png" alt="">
+                                 <img src="static/img/icon/work-icon3.png" alt="">
                               </div>
                               <h4>ready to plant</h4>
                               <p>Whether you are looking for plants,
@@ -105,8 +105,8 @@
                         that
                         your kid is gaming too much: Join your kids on their favorite platform.</p>
                      <div class="service-sub-image">
-                        <img src="assets/img/service/service-sub1.jpg" alt="">
-                        <img src="assets/img/service/service-sub2.jpg" alt="">
+                        <img src="static/img/service/service-sub1.jpg" alt="">
+                        <img src="static/img/service/service-sub2.jpg" alt="">
                      </div>
                      <div class="service-features mb-60">
                         <h4>Core Features</h4>
@@ -149,7 +149,7 @@
                         </div>
                      </div>
                      <div class="sidebar-widget sidebar-adv mb-50">
-                        <img src="assets/img/service/service-sidebar-adv.jpg" alt="">
+                        <img src="static/img/service/service-sidebar-adv.jpg" alt="">
                      </div>
                   </div>
                </div>

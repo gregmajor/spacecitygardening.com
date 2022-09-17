@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -76,7 +76,7 @@
                            improving conversion rates and
                            business.</p>
                         <div class="blog-thumb">
-                           <img src="assets/img/blog/blog-1.jpg" alt="">
+                           <img src="static/img/blog/blog-1.jpg" alt="">
                         </div>
                         <h3>A cleansing hot shower or bath</h3>
                         <p class="pb-50">The journey, often, starts “simple” with localization. But then, quickly
@@ -92,7 +92,7 @@
                         <div class="hr-1"></div>
                         <h3>Setting the mood with incense</h3>
                         <div class="img-details mb-50">
-                           <img src="assets/img/blog/img-details1.jpg" alt="">
+                           <img src="static/img/blog/img-details1.jpg" alt="">
                            <p>From connecting back-office operations to front-of-the-house A/B testing and dynamic
                               personalization for each customer,
                               the shared foundation is fast
@@ -104,7 +104,7 @@
                         <div class="blockquote-d-wrapper mb-50">
                            <div class="blockquote-d-content">
                               <div class="blockquote-d-icon">
-                                 <img src="assets/img/icon/quote-icon-white-small.png" alt="">
+                                 <img src="static/img/icon/quote-icon-white-small.png" alt="">
                               </div>
                               <p>Choices to take a holiday and travelling
                                  out inthis pandemic situation are limited. Why not take a stay action on quality.</p>
@@ -149,7 +149,7 @@
                            <div class="blog-nav-items">
                               <div class="blog-single">
                                  <div class="blog-img">
-                                    <a href="blog-details"><img src="assets/img/portfolio/portfolio-3.jpg"
+                                    <a href="blog-details"><img src="static/img/portfolio/portfolio-3.jpg"
                                           alt=""></a>
                                  </div>
                                  <div class="blog-content">
@@ -168,7 +168,7 @@
                               </div>
                               <div class="blog-single">
                                  <div class="blog-img">
-                                    <a href="blog-details"><img src="assets/img/portfolio/portfolio-4.jpg"
+                                    <a href="blog-details"><img src="static/img/portfolio/portfolio-4.jpg"
                                           alt=""></a>
                                  </div>
                                  <div class="blog-content">
@@ -180,7 +180,7 @@
                         </div>
                         <div class="blog-writer">
                            <div class="blog-writer-img">
-                              <img src="assets/img/blog/blog-writer-img.jpg" alt="">
+                              <img src="static/img/blog/blog-writer-img.jpg" alt="">
                            </div>
                            <div class="blgo-writer-content">
                               <span>Written by</span>
@@ -199,7 +199,7 @@
                                  <li>
                                     <div class="comments-box">
                                        <div class="comments-avatar">
-                                          <img src="assets/img/blog/blog-sm-6.jpg" class="img-fluid" alt="img">
+                                          <img src="static/img/blog/blog-sm-6.jpg" class="img-fluid" alt="img">
                                        </div>
                                        <div class="comments-text">
                                           <div class="avatar-name">
@@ -219,7 +219,7 @@
                                  <li class="children">
                                     <div class="comments-box">
                                        <div class="comments-avatar">
-                                          <img src="assets/img/blog/blog-sm-7.jpg" class="img-fluid" alt="img">
+                                          <img src="static/img/blog/blog-sm-7.jpg" class="img-fluid" alt="img">
                                        </div>
                                        <div class="comments-text">
                                           <div class="avatar-name">
@@ -238,7 +238,7 @@
                                  <li>
                                     <div class="comments-box">
                                        <div class="comments-avatar">
-                                          <img src="assets/img/blog/blog-sm-8.jpg" class="img-fluid" alt="img">
+                                          <img src="static/img/blog/blog-sm-8.jpg" class="img-fluid" alt="img">
                                        </div>
                                        <div class="comments-text">
                                           <div class="avatar-name">
@@ -303,7 +303,7 @@
                         <h4 class="sidebar-widget-title">About Me</h4>
                         <div class="sidebar-about-content">
                            <div class="profile-thumb">
-                              <img src="assets/img/team/team-9.jpg" alt="">
+                              <img src="static/img/team/team-9.jpg" alt="">
                            </div>
                            <h4 class="member-name">Alonso D. Dowson</h4>
                            <p>Lorem ipsum dolor sit amet, consect etur adipisicing elit, sed do eiusmod tempor
@@ -333,7 +333,7 @@
                               <li>
                                  <div class="blog-single">
                                     <div class="blog-thumb">
-                                       <a href="blog-details"><img src="assets/img/blog/blog-5.jpg" alt=""></a>
+                                       <a href="blog-details"><img src="static/img/blog/blog-5.jpg" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                        <h2 class="blog-title"><a href="blog-details">Having education in
@@ -354,7 +354,7 @@
                               <li>
                                  <div class="blog-single">
                                     <div class="blog-thumb">
-                                       <a href="blog-details"><img src="assets/img/blog/blog-6.jpg" alt=""></a>
+                                       <a href="blog-details"><img src="static/img/blog/blog-6.jpg" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                        <h2 class="blog-title"><a href="blog-details">People think, feel, &
@@ -375,7 +375,7 @@
                               <li>
                                  <div class="blog-single">
                                     <div class="blog-thumb">
-                                       <a href="blog-details"><img src="assets/img/blog/blog-7.jpg" alt=""></a>
+                                       <a href="blog-details"><img src="static/img/blog/blog-7.jpg" alt=""></a>
                                     </div>
                                     <div class="blog-content">
                                        <h2 class="blog-title"><a href="blog-details">That contributes to
@@ -452,7 +452,7 @@
                      </div>
                      <div class="sidebar-widget sidebar-adv mb-50">
                         <h4 class="sidebar-widget-title">Sponsor Adds</h4>
-                        <img src="assets/img/blog/blog-sidebar-adv.jpg" alt="">
+                        <img src="static/img/blog/blog-sidebar-adv.jpg" alt="">
                      </div>
                   </div>
                </div>

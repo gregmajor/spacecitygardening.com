@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -34,7 +34,7 @@
             <div class="row align-items-center wow fadeInUp" data-wow-delay=".3s">
                <div class="col-lg-6">
                   <div class="about-thumb mb-30">
-                     <img src="assets/img/about/about-thumb.jpg" alt="">
+                     <img src="static/img/about/about-thumb.jpg" alt="">
                      <div class="about-thumb-meta">
                         <p>since from 2000</p>
                      </div>
@@ -73,7 +73,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-strategy mb-30">
                         <div class="st-hover">
-                           <div class="st-h-content" data-background="assets/img/bg/st-h-bg.jpg">
+                           <div class="st-h-content" data-background="static/img/bg/st-h-bg.jpg">
                               <p>Gardening is the practice of growing and cultivating plants as part of
                                  horticulture. In gardens, ornamental plants are often grown.</p>
                            </div>
@@ -84,7 +84,7 @@
                            </div>
                         </div>
                         <div class="strategy-icon">
-                           <img src="assets/img/icon/mission-icon.png" alt="">
+                           <img src="static/img/icon/mission-icon.png" alt="">
                         </div>
                         <h4>our mission</h4>
                         <a href="contact" class="strategy-arrow"><i class="fal fa-long-arrow-right"></i></a>
@@ -93,7 +93,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-strategy mb-30">
                         <div class="st-hover">
-                           <div class="st-h-content" data-background="assets/img/bg/st-h-bg.jpg">
+                           <div class="st-h-content" data-background="static/img/bg/st-h-bg.jpg">
                               <p>Gardening is the practice of growing and cultivating plants as part of
                                  horticulture. In gardens, ornamental plants are often grown.</p>
                            </div>
@@ -104,7 +104,7 @@
                            </div>
                         </div>
                         <div class="strategy-icon">
-                           <img src="assets/img/icon/vision-icon.png" alt="">
+                           <img src="static/img/icon/vision-icon.png" alt="">
                         </div>
                         <h4>our vision</h4>
                         <a href="contact" class="strategy-arrow"><i class="fal fa-long-arrow-right"></i></a>
@@ -113,7 +113,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-strategy mb-30">
                         <div class="st-hover">
-                           <div class="st-h-content" data-background="assets/img/bg/st-h-bg.jpg">
+                           <div class="st-h-content" data-background="static/img/bg/st-h-bg.jpg">
                               <p>Gardening is the practice of growing and cultivating plants as part of
                                  horticulture. In gardens, ornamental plants are often grown.</p>
                            </div>
@@ -124,7 +124,7 @@
                            </div>
                         </div>
                         <div class="strategy-icon">
-                           <img src="assets/img/icon/approach-icon.png" alt="">
+                           <img src="static/img/icon/approach-icon.png" alt="">
                         </div>
                         <h4>our approach</h4>
                         <a href="contact" class="strategy-arrow"><i class="fal fa-long-arrow-right"></i></a>
@@ -137,7 +137,7 @@
       <!-- strategy area end  -->
 
       <!-- video area start  -->
-      <section class="video-area pt-120 pb-145" data-background="assets/img/bg/video-bg.jpg">
+      <section class="video-area pt-120 pb-145" data-background="static/img/bg/video-bg.jpg">
          <div class="container">
             <div class="row wow fadeInUp" data-wow-delay=".3s">
                <div class="col-lg-12">
@@ -167,27 +167,27 @@
                         <div class="swiper-wrapper">
                            <div class="swiper-slide">
                               <div class="client-single">
-                                 <a href="#"><img src="assets/img/client/client-1.png" alt=""></a>
+                                 <a href="#"><img src="static/img/client/client-1.png" alt=""></a>
                               </div>
                            </div>
                            <div class="swiper-slide">
                               <div class="client-single">
-                                 <a href="#"><img src="assets/img/client/client-2.png" alt=""></a>
+                                 <a href="#"><img src="static/img/client/client-2.png" alt=""></a>
                               </div>
                            </div>
                            <div class="swiper-slide">
                               <div class="client-single">
-                                 <a href="#"><img src="assets/img/client/client-3.png" alt=""></a>
+                                 <a href="#"><img src="static/img/client/client-3.png" alt=""></a>
                               </div>
                            </div>
                            <div class="swiper-slide">
                               <div class="client-single">
-                                 <a href="#"><img src="assets/img/client/client-4.png" alt=""></a>
+                                 <a href="#"><img src="static/img/client/client-4.png" alt=""></a>
                               </div>
                            </div>
                            <div class="swiper-slide">
                               <div class="client-single">
-                                 <a href="#"><img src="assets/img/client/client-5.png" alt=""></a>
+                                 <a href="#"><img src="static/img/client/client-5.png" alt=""></a>
                               </div>
                            </div>
                         </div>
@@ -209,7 +209,7 @@
                   <div class="single-year">
                      <div class="history-year">2000</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-1.jpg" alt="">
+                        <img src="static/img/history/history-thumb-1.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -225,7 +225,7 @@
                   <div class="single-year">
                      <div class="history-year">2005</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-2.jpg" alt="">
+                        <img src="static/img/history/history-thumb-2.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -241,7 +241,7 @@
                   <div class="single-year">
                      <div class="history-year">2006</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-3.jpg" alt="">
+                        <img src="static/img/history/history-thumb-3.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -257,7 +257,7 @@
                   <div class="single-year">
                      <div class="history-year">2008</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-4.jpg" alt="">
+                        <img src="static/img/history/history-thumb-4.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -273,7 +273,7 @@
                   <div class="single-year">
                      <div class="history-year">2010</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-5.jpg" alt="">
+                        <img src="static/img/history/history-thumb-5.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -289,7 +289,7 @@
                   <div class="single-year">
                      <div class="history-year">2015</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-6.jpg" alt="">
+                        <img src="static/img/history/history-thumb-6.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -305,7 +305,7 @@
                   <div class="single-year">
                      <div class="history-year">2020</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-7.jpg" alt="">
+                        <img src="static/img/history/history-thumb-7.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">
@@ -321,7 +321,7 @@
                   <div class="single-year">
                      <div class="history-year">2022</div>
                      <div class="history-thumb">
-                        <img src="assets/img/history/history-thumb-8.jpg" alt="">
+                        <img src="static/img/history/history-thumb-8.jpg" alt="">
                      </div>
                      <div class="history-content-wrapper">
                         <div class="history-content">

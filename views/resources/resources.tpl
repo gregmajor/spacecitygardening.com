@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -34,7 +34,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-default mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon1.png" alt="service icon">
+                           <img src="static/img/icon/s-icon1.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -49,7 +49,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-default mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon2.png" alt="service icon">
+                           <img src="static/img/icon/s-icon2.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -64,7 +64,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-default mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon3.png" alt="service icon">
+                           <img src="static/img/icon/s-icon3.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -79,7 +79,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-default mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon4.png" alt="service icon">
+                           <img src="static/img/icon/s-icon4.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -94,7 +94,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-default mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon5.png" alt="service icon">
+                           <img src="static/img/icon/s-icon5.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -109,7 +109,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="single-service single-service-default mb-30">
                         <div class="service-icon">
-                           <img src="assets/img/icon/s-icon6.png" alt="service icon">
+                           <img src="static/img/icon/s-icon6.png" alt="service icon">
                         </div>
                         <div class="single-service-content">
                            <span class="service-number"></span>
@@ -131,7 +131,7 @@
       <!-- choose area start  -->
       <section class="choose-area pt-120 pb-120">
          <div class="choose-bg">
-            <img src="assets/img/bg/choose-bg.jpg" alt="">
+            <img src="static/img/bg/choose-bg.jpg" alt="">
          </div>
          <div class="container">
             <div class="row justify-content-end wow fadeInUp" data-wow-delay=".3s">
@@ -147,7 +147,7 @@
                            <div class="choose-list">
                               <div class="irc-item choose-item">
                                  <div class="irc-item-icon">
-                                    <img src="assets/img/icon/choose-icon1.png" alt="">
+                                    <img src="static/img/icon/choose-icon1.png" alt="">
                                  </div>
                                  <div class="irc-item-content">
                                     <h4>Quality & Reliability</h4>
@@ -157,7 +157,7 @@
                               </div>
                               <div class="irc-item choose-item">
                                  <div class="irc-item-icon">
-                                    <img src="assets/img/icon/choose-icon2.png" alt="">
+                                    <img src="static/img/icon/choose-icon2.png" alt="">
                                  </div>
                                  <div class="irc-item-content">
                                     <h4>Award Winning Company</h4>
@@ -191,7 +191,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single blog-general mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details"><img src="assets/img/blog/blog-8.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-8.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -218,7 +218,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single blog-general mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details"><img src="assets/img/blog/blog-9.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-9.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">
@@ -245,7 +245,7 @@
                   <div class="col-lg-4 col-md-6">
                      <div class="blog-single blog-general mb-45">
                         <div class="blog-thumb">
-                           <a href="blog-details"><img src="assets/img/blog/blog-10.jpg" alt=""></a>
+                           <a href="blog-details"><img src="static/img/blog/blog-10.jpg" alt=""></a>
                         </div>
                         <div class="blog-content">
                            <div class="blog-meta-list">

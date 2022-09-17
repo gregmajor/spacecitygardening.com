@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -31,7 +31,7 @@
          <div class="container">
             <div class="portfolio-details-wrapper wow fadeInUp" data-wow-delay=".3s">
                <div class="portfolio-thumb">
-                  <img src="assets/img/portfolio/portfolio-d-thumb.jpg" alt="">
+                  <img src="static/img/portfolio/portfolio-d-thumb.jpg" alt="">
                </div>
                <div class="portfolio-meta-wrapper">
                   <div class="portfolio-meta">
@@ -89,9 +89,9 @@
                   value-added marketing
                   partner.</p>
                <div class="portfolio-sub-image">
-                  <img src="assets/img/portfolio/portfolio-sub1.jpg" alt="">
-                  <img src="assets/img/portfolio/portfolio-sub2.jpg" alt="">
-                  <img src="assets/img/portfolio/portfolio-sub3.jpg" alt="">
+                  <img src="static/img/portfolio/portfolio-sub1.jpg" alt="">
+                  <img src="static/img/portfolio/portfolio-sub2.jpg" alt="">
+                  <img src="static/img/portfolio/portfolio-sub3.jpg" alt="">
                </div>
                <div class="portfolio-quote">
                   <div class="quote-icon">
@@ -235,7 +235,7 @@
                   <div class="portfolio-nav-items">
                      <div class="portfolio-single">
                         <div class="portfolio-img">
-                           <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-3.jpg" alt=""></a>
+                           <a href="portfolio-details"><img src="static/img/portfolio/portfolio-3.jpg" alt=""></a>
                         </div>
                         <div class="portfolio-content">
                            <span>Prev Case</span>
@@ -251,7 +251,7 @@
                      </div>
                      <div class="portfolio-single">
                         <div class="portfolio-img">
-                           <a href="portfolio-details"><img src="assets/img/portfolio/portfolio-4.jpg" alt=""></a>
+                           <a href="portfolio-details"><img src="static/img/portfolio/portfolio-4.jpg" alt=""></a>
                         </div>
                         <div class="portfolio-content">
                            <span>Next Case</span>

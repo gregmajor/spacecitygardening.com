@@ -1,5 +1,5 @@
       <!-- page title area start  -->
-      <section class="page-title-area" data-background="assets/img/bg/page-title-bg.jpg">
+      <section class="page-title-area" data-background="static/img/bg/page-title-bg.jpg">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
@@ -65,7 +65,7 @@
                         </div>
                      </div>
                      <div class="contact-wrapper-img">
-                        <img src="assets/img/about/contact-img.jpg" alt="">
+                        <img src="static/img/about/contact-img.jpg" alt="">
                      </div>
                   </div>
                </div>
@@ -77,7 +77,7 @@
       <!-- contact info area start  -->
       <section class="contact-info-area">
          <div class="contact-info-shape">
-            <img class="contact-img-1" src="assets/img/about/shovle-img.png" alt="">
+            <img class="contact-img-1" src="static/img/about/shovle-img.png" alt="">
          </div>
          <div class="container">
             <div class="row justify-content-center wow fadeInUp" data-wow-delay=".3s">
