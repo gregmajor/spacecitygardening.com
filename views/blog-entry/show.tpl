@@ -1,0 +1,1 @@
+/Users/greg/go/src/github.com/gregmajor/spacecitygardening.com/views/blog-entry/show.tpl

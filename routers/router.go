@@ -1,8 +1,8 @@
 package routers
 
 import (
-    beego "github.com/beego/beego/v2/server/web"
-    "spacecitygardening.com/controllers"
+	beego "github.com/beego/beego/v2/server/web"
+	"spacecitygardening.com/controllers"
 )
 
 func init() {
@@ -11,8 +11,7 @@ func init() {
 
 	beego.Router("/about", &controllers.AboutController{})
 
-	beego.Router("/blog", &controllers.BlogIndexController{})
-	beego.Router("/blog/entry", &controllers.BlogEntryReadController{})
+	beego.Include(&controllers.BlogEntryController{})
 
 	beego.Router("/contact", &controllers.ContactController{})
 
@@ -20,7 +19,7 @@ func init() {
 
 	beego.Router("/portfolio", &controllers.PortfolioController{})
 
-	beego.Router("/resources", &controllers.ResourcesController{})
+	beego.Router("/resources", &controllers.ResourceIndexController{})
 
 	beego.Router("/services", &controllers.ServicesController{})
 

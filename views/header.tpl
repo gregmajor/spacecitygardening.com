@@ -61,7 +61,7 @@
                                        <li class="menu-item-has-children"><a href="portfolio">Portfolio</a></li>
                                     </ul>
                                  </li>
-                                 <li><a href="blog">Blog</a></li>
+                                 <li><a href="BlogEntry">Blog</a></li>
                                  <li><a href="faq">FAQ</a></li>
                                  <li><a href="contact">Contact</a></li>
                               </ul>
