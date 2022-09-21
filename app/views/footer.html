@@ -1,0 +1,78 @@
+{{append . "moreScripts" "bootstrap.bundle.min.js"}}
+{{append . "moreScripts" "meanmenu.js"}}
+{{append . "moreScripts" "swiper-bundle.min.js"}}
+{{append . "moreScripts" "owl.carousel.min.js"}}
+{{append . "moreScripts" "magnific-popup.min.js"}}
+{{append . "moreScripts" "parallax.min.js"}}
+{{append . "moreScripts" "backToTop.js"}}
+{{append . "moreScripts" "nice-select.min.js"}}
+{{append . "moreScripts" "counterup.min.js"}}
+{{append . "moreScripts" "ajax-form.js"}}
+{{append . "moreScripts" "wow.min.js"}}
+{{append . "moreScripts" "beforeafter.jquery-1.0.0.js"}}
+{{append . "moreScripts" "isotope.pkgd.min.js"}}
+{{append . "moreScripts" "imagesloaded.pkgd.min.js"}}
+{{append . "moreScripts" "main.js"}}
+
+   <!-- START: Footer Area -->
+   <footer data-background="" class="footer4-bg">
+
+      <div class="footer-area footer-area4 footer-area4-bg pt-120 pb-120">
+         <div class="footer-4-bg-img">
+            <img src="/public/img/bg/footer-4-bg.jpg" alt="">
+         </div>
+         <div class="container">
+            <div class="footer4-inner footer-4-plant-shape">
+               <div class="row justify-content-center">
+                  <div class="col-lg-8 col-md-12 col-sm-12">
+                     <div class="footer-widget footer4-widget footer4-widget1 mb-0">
+                        <div class="footer-logo">
+                           <a href="index"><img src="/public/img/logo/logo-w.png" alt=""></a>
+                        </div>
+                        <div class="footer-text">
+                           <p>Thank you for visiting!</p>
+                        </div>
+                        <div class="footer-btn">
+                           <a href="contact" class="border-btn"><i class="fal fa-farm"></i><span>Contact Us</span></a>
+                        </div>
+                        <div class="footer-social">
+                           <span>Connect With Us:</span>
+                           <div class="social-links">
+                              <ul>
+                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                 <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+   </footer>
+   <!-- END: Footer Area -->
+
+   <!-- START: Back To Top -->
+   <div class="progress-wrap">
+      <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+         <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+      </svg>
+   </div>
+   <!-- END: Back To Top -->
+  
+   <!-- START: Debug Bar -->
+  {{if .DevMode}}
+    {{template "debug.html" .}}
+  {{end}}
+  <!-- END: Debug Bar -->
+
+   <!-- JS here -->
+    {{range .moreScripts}}
+      <script src="/public/js/{{.}}" type="text/javascript" charset="utf-8"></script>
+    {{end}}
+</body>
+
+</html>

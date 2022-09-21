@@ -1,0 +1,66 @@
+<style type="text/css">
+	#debugBar {
+		position: absolute;
+		right: 0px;
+		top:69px;
+		max-width: 75%;
+		z-index: 1000;
+		background-color: #fee;
+		border: thin solid grey;
+		padding: 10px;
+	}
+	#toggleDebugBar {
+		position: absolute;
+		right: 0px;
+		top: 50px;
+		background-color: #fee;
+	}
+</style>
+<div id="debugBar" style="display:none;">
+	<h4>Available Pipelines</h4>
+	<dl>
+	{{range $index, $value := .}}
+		<dt>{{$index}}</dt>
+		<dd>{{$value}}</dd>
+	{{end}}
+	</dl>
+	<h4>Flash</h4>
+	<dl>
+	{{range $index, $value := .flash}}
+		<dt>{{$index}}</dt>
+		<dd>{{$value}}</dd>
+	{{end}}
+	</dl>
+
+	<h4>Errors</h4>
+	<dl>
+	{{range $index, $value := .errors}}
+		<dt>{{$index}}</dt>
+		<dd>{{$value}}</dd>
+	{{end}}
+	</dl>
+</div>
+
+<a id="toggleDebugBar" href="#" class="toggles"></a>
+	<i class="glyphicon glyphicon-chevron-left"></i>
+</a>
+
+<script>
+	$debugBar = 0;
+	$('#toggleDebugBar').click(function() {
+		if ($debugBar === 1) {
+			$('#debugBar').hide();
+			$('#toggleDebugBar i').addClass('glyphicon-chevron-left');
+			$('#toggleDebugBar i').removeClass('glyphicon-chevron-right');
+			$debugBar = 0;
+		}
+		else {
+			$('#debugBar').show();
+			$('#toggleDebugBar i').addClass('glyphicon-chevron-right');
+			$('#toggleDebugBar i').removeClass('glyphicon-chevron-left');
+			$debugBar = 1;
+		}
+
+    return false;
+	});
+</script>

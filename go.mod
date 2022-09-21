@@ -2,33 +2,27 @@ module spacecitygardening.com
 
 go 1.19
 
-require github.com/beego/beego/v2 v2.0.5
-
-require github.com/smartystreets/goconvey v1.6.4
+require (
+	github.com/revel/modules v1.1.0
+	github.com/revel/revel v1.1.0
+)
 
 require (
-	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 // indirect
-	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/jtolds/gls v4.20.0+incompatible // indirect
-	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
-	github.com/mitchellh/mapstructure v1.4.3 // indirect
-	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
-	github.com/pkg/errors v0.9.1 // indirect
-	github.com/prometheus/client_golang v1.12.1 // indirect
-	github.com/prometheus/client_model v0.2.0 // indirect
-	github.com/prometheus/common v0.32.1 // indirect
-	github.com/prometheus/procfs v0.7.3 // indirect
-	github.com/shiena/ansicolor v0.0.0-20200904210342-c7312218db18 // indirect
-	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5 // indirect
-	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
-	golang.org/x/text v0.3.6 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
-	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
+	github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d // indirect
+	github.com/fsnotify/fsnotify v1.5.1 // indirect
+	github.com/go-stack/stack v1.8.1 // indirect
+	github.com/gomodule/redigo v1.8.8 // indirect
+	github.com/google/uuid v1.3.0 // indirect
+	github.com/inconshreveable/log15 v0.0.0-20201112154412-8562bdadbbac // indirect
+	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/mattn/go-isatty v0.0.14 // indirect
+	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
+	github.com/revel/config v1.0.0 // indirect
+	github.com/revel/log15 v2.11.20+incompatible // indirect
+	github.com/revel/pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
+	github.com/xeonx/timeago v1.0.0-rc4 // indirect
+	golang.org/x/net v0.0.0-20220412020605-290c469a71a5 // indirect
+	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
+	gopkg.in/stack.v0 v0.0.0-20141108040640-9b43fcefddd0 // indirect
 )
